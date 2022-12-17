@@ -4,6 +4,6 @@
 <li align="center"> Use as setas para direita e esquerda para movimentar o personagem. </li>
 <li align="center"> Colete o máximo de moedas. </li>
 <li align="center"> Desvie do inimigo para não perder todas as moedas. </li>
-<h1 align="center"> <b><i> DIVIRTA-SE </b> </i> </h1>
+<h1 align="center"> <b><i> CLIQUE NA IMAGEM E DIVIRTA-SE </b> </i> </h1>
 
 
